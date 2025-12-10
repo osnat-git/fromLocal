@@ -8,5 +8,5 @@ const b = () => {
 }
 
 const c = () => {
-    console.log("CCCC");
+    console.log("function c");
 }
