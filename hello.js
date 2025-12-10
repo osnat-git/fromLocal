@@ -7,6 +7,10 @@ const b = () => {
     return "hello world!";
 }
 
+const c = () => {
+    console.log("function c");
+}
+
 const d = () => {
     confirm("Are you sure?");
 }
