@@ -6,3 +6,7 @@ const b = () => {
     alert("hello");
     return "hello world!";
 }
+
+const c = () => {
+    console.log("CCCC");
+}
