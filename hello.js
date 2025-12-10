@@ -3,5 +3,5 @@ const a = () => {
 }
 
 const b = () => {
-    return "hello";
+    alert("hello");
 }
